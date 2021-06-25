@@ -1,5 +1,7 @@
 # wine-osu
 
+# OUTDATED: use gonX's patched version instead! https://drive.google.com/drive/folders/17MVlyXixv7uS3JW4B-H8oS4qgLn7eBw5
+
 Original PKGBUILD from ThePooN and Geno: https://gitlab.com/telastrus/wine-osu & https://blog.thepoon.fr/osuLinuxAudioLatency
 Original Patches from gonX, openglfreak and tdeo
 **Join ThePooN's Discord Server for any questions and problems regarding running osu! using Wine https://discord.com/invite/thepoon**
